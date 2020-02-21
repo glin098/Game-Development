@@ -1,0 +1,12 @@
+C:\Users\glin098\source\repos\Builders\Builders\bin\Debug\Builders.exe.config
+C:\Users\glin098\source\repos\Builders\Builders\bin\Debug\Builders.exe
+C:\Users\glin098\source\repos\Builders\Builders\bin\Debug\Builders.pdb
+C:\Users\glin098\source\repos\Builders\Builders\bin\Debug\Builders.xml
+C:\Users\glin098\source\repos\Builders\Builders\obj\Debug\Builders.vbprojAssemblyReference.cache
+C:\Users\glin098\source\repos\Builders\Builders\obj\Debug\Builders.Form1.resources
+C:\Users\glin098\source\repos\Builders\Builders\obj\Debug\Builders.Resources.resources
+C:\Users\glin098\source\repos\Builders\Builders\obj\Debug\Builders.vbproj.GenerateResource.cache
+C:\Users\glin098\source\repos\Builders\Builders\obj\Debug\Builders.vbproj.CoreCompileInputs.cache
+C:\Users\glin098\source\repos\Builders\Builders\obj\Debug\Builders.exe
+C:\Users\glin098\source\repos\Builders\Builders\obj\Debug\Builders.xml
+C:\Users\glin098\source\repos\Builders\Builders\obj\Debug\Builders.pdb

@@ -1,0 +1,12 @@
+C:\Users\glin098\source\repos\OCCalculator\OCCalculator\bin\Debug\OCCalculator.exe.config
+C:\Users\glin098\source\repos\OCCalculator\OCCalculator\bin\Debug\OCCalculator.exe
+C:\Users\glin098\source\repos\OCCalculator\OCCalculator\bin\Debug\OCCalculator.pdb
+C:\Users\glin098\source\repos\OCCalculator\OCCalculator\bin\Debug\OCCalculator.xml
+C:\Users\glin098\source\repos\OCCalculator\OCCalculator\obj\Debug\OCCalculator.vbprojAssemblyReference.cache
+C:\Users\glin098\source\repos\OCCalculator\OCCalculator\obj\Debug\OCCalculator.Form1.resources
+C:\Users\glin098\source\repos\OCCalculator\OCCalculator\obj\Debug\OCCalculator.Resources.resources
+C:\Users\glin098\source\repos\OCCalculator\OCCalculator\obj\Debug\OCCalculator.vbproj.GenerateResource.cache
+C:\Users\glin098\source\repos\OCCalculator\OCCalculator\obj\Debug\OCCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\glin098\source\repos\OCCalculator\OCCalculator\obj\Debug\OCCalculator.exe
+C:\Users\glin098\source\repos\OCCalculator\OCCalculator\obj\Debug\OCCalculator.xml
+C:\Users\glin098\source\repos\OCCalculator\OCCalculator\obj\Debug\OCCalculator.pdb
