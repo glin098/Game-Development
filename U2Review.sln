@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "U2Review", "U2Review\U2Review.vbproj", "{DC09DCBB-3749-40A1-8D08-6831C3F7164A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC09DCBB-3749-40A1-8D08-6831C3F7164A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC09DCBB-3749-40A1-8D08-6831C3F7164A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC09DCBB-3749-40A1-8D08-6831C3F7164A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC09DCBB-3749-40A1-8D08-6831C3F7164A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98958D25-81DC-4632-8FF8-F0134FE3DCAD}
+	EndGlobalSection
+EndGlobal
